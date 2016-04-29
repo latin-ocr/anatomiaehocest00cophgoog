@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./anatomiaehocest00cophgoog_0054.png"; bbox 0 0 2844 3613; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 301 236 914 352">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 301 236 914 352">
+     <span class='ocr_line' id='line_1_1' title="bbox 301 236 914 352; baseline 0.01 -13"><span class='ocrx_word' id='word_1_1' title='bbox 301 248 305 259; x_wconf 63' lang='lat'>‘</span> <span class='ocrx_word' id='word_1_2' title='bbox 326 236 503 339; x_wconf 37' lang='lat' dir='ltr'>³&#39;eff1&#39;vm‘m</span> <span class='ocrx_word' id='word_1_3' title='bbox 534 280 701 352; x_wconf 70' lang='lat' dir='ltr'>cmm,</span> <span class='ocrx_word' id='word_1_4' title='bbox 726 236 914 346; x_wconf 62' lang='lat' dir='ltr'>mma.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 197 340 234 391">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 197 340 234 391">
+     <span class='ocr_line' id='line_1_2' title="bbox 197 340 234 391; baseline 0 -7"><span class='ocrx_word' id='word_1_5' title='bbox 197 340 234 391; x_wconf 63' lang='lat' dir='ltr'> ÷</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 759 2753 1241 2901">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 759 2753 1241 2902">
+     <span class='ocr_line' id='line_1_3' title="bbox 759 2753 1241 2839; baseline 0.002 -21"><span class='ocrx_word' id='word_1_6' title='bbox 759 2771 817 2839; x_wconf 54' lang='lat' dir='ltr'>sss</span> <span class='ocrx_word' id='word_1_7' title='bbox 908 2753 1145 2833; x_wconf 60' lang='lat' dir='ltr'>Inhacffguraot</span> <span class='ocrx_word' id='word_1_8' title='bbox 1239 2817 1241 2819; x_wconf 82' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 905 2838 1148 2901; baseline 0.003 -0.685"><span class='ocrx_word' id='word_1_9' title='bbox 905 2855 987 2900; x_wconf 84' lang='lat' dir='ltr'>mnes</span> <span class='ocrx_word' id='word_1_10' title='bbox 995 2838 1100 2899; x_wconf 81' lang='lat' dir='ltr'>suturae</span> <span class='ocrx_word' id='word_1_11' title='bbox 1108 2858 1148 2901; x_wconf 79' lang='lat' dir='ltr'>oc</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 807 2921 1144 2999">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 807 2921 1144 2999">
+     <span class='ocr_line' id='line_1_5' title="bbox 807 2921 1144 2999; baseline 0.021 -20"><span class='ocrx_word' id='word_1_12' title='bbox 807 2921 809 2925; x_wconf 64' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 901 2924 1144 2999; x_wconf 60' lang='lat' dir='ltr'>:spuis-„delium</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1426 3613">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1426 3613">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1426 3613; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1426 3613; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
